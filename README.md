@@ -9,7 +9,6 @@ This is a Python implementation of the popular 2048 game using the Tkinter libra
 - [Usage](#usage)
 - [Controls](#controls)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
